@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1722777102,
+      "datetime": 1722786435,
       "filename": "lineage-21.0-20240804-FORK-edition-PL2.zip",
-      "id": "8f076170fa02671ff7dca40faea59872ccf62569e130cf1ef1f7b0c66ac8b05f",
+      "id": "620c18c4239246bd9fcadf90edc692a28743081ba7b5331b9783b8833e9a8b7d",
       "romtype": "FORK-edition",
-      "size": 1392583959,
-      "url": "https://github.com/LineageOS-Pixel-Variant/OTA-update/releases/download/r_08-2024/lineage-21.0-20240804-FORK-edition-PL2.zip",
+      "size": 1220652603,
+      "url": "https://github.com/LineageOS-Pixel-Variant/OTA-update/releases/download/r_08-2024-1/lineage-21.0-20240804-FORK-edition-PL2.zip",
       "version": "21.0"
     }
   ]
