@@ -10,7 +10,7 @@ read -p "Enter release tag (e.g. mm-yyyy): " release_tag
 # The filename is extracted from the OTA package file
 file_path=$(ls out/target/product/${codename}/lineage-21.0-*-${codename}.zip 2>/dev/null)
 filename=$(basename "$file_path")
-url="https://github.com/LineageOS-Pixel-Variant/OTA-update/releases/download/r_${release_tag}/${filename}"
+url="https://github.com/LineageOS-Pixel-Variant/OTA-update/releases/download/u_${codename}_${release_tag}/${filename}"
 
 # Default values
 output_dir="./OTA/devices"
